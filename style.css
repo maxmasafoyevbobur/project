@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
+#header {
+    background-image: url(img/hero-2.jpg);
+    height: 108vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
 .header-nav {
     display: flex;
     justify-content: space-between;
@@ -21,4 +29,22 @@
 .header-li a{
     color: black;
     text-decoration: none;
+}
+
+.header-1{
+    text-align: center;
+    padding-top: 20%;
+}
+
+.header-1 h1{
+    font-size: 50px;
+    font-weight: 100;
+    color: rgb(62, 60, 60);
+    margin-bottom: 20px;
+}
+
+.header-1 p{
+    font-size: 20px;
+    font-weight: 100;
+    color: rgb(62, 60, 60);
 }
