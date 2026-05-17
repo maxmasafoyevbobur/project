@@ -102,3 +102,19 @@
     font-size: 18px;
 }
 
+.header-bg2{
+    background-color: rgb(248, 94, 38);
+    height: 220px;
+    width: 100%;
+    margin-top: 80px;
+}
+
+.icon-header1 {
+    color: white;
+    display: flex;
+    gap: 12%;
+    padding-left: 12%;
+    padding-top: 5%;
+    font-size: 18px;
+    text-align: center;
+}
