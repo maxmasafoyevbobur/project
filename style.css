@@ -118,3 +118,58 @@
     font-size: 18px;
     text-align: center;
 }
+
+.main-02 {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.main-02 h2{
+    font-size: 40px;
+    font-weight: 100;
+    color: rgb(60, 59, 59);
+    margin-bottom: 20px;
+}
+
+.main-02 p{
+    font-size: 18px;
+    color: rgb(45, 44, 44);
+}
+
+.umumiy-jadval {
+    display: flex;
+    text-align: center;
+    gap: 100px;
+    padding-left: 10%;
+    margin-top: 60px;
+}
+
+.jadval1 h1{
+    font-weight: 100;
+    margin-bottom: 15px;
+}
+
+.jadval1 p{
+    color: rgb(62, 60, 60);
+    font-weight: 200;
+    font-size: 17px;
+}
+
+.umumiy-jadval-2 {
+    display: flex;
+    text-align: center;
+    gap: 100px;
+    padding-left: 10%;
+    margin-top: 60px;
+}
+
+.jadval2 h1{
+    font-weight: 100;
+    margin-bottom: 15px;
+}
+
+.jadval2 p{
+    color: rgb(62, 60, 60);
+    font-weight: 200;
+    font-size: 17px;
+}
