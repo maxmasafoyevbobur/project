@@ -326,3 +326,26 @@ h2 {
     gap: 50px;
     margin-left: 11%;
 }
+
+.main-section-div-005 {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.main-section-div-005 h1{
+    font-size: 36px;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+
+.main-section-div-005 p{
+    font-size: 16px;
+    font-weight: 100;
+    margin-bottom: 30px;
+}
+
+.main-section-div-005 h4{
+    font-size: 18px;
+    font-weight: 100;
+    color: rgb(212, 46, 46);
+}
