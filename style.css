@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -18,7 +18,7 @@
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 30px;
-}       
+}
 
 .header-ul {
     display: flex;
@@ -26,29 +26,29 @@
     gap: 30px;
 }
 
-.header-li a{
+.header-li a {
     color: black;
     text-decoration: none;
 }
 
-.header-li a:hover{
+.header-li a:hover {
     color: red;
     transition: 0.3s;
 }
 
-.header-1{
+.header-1 {
     text-align: center;
     padding-top: 20%;
 }
 
-.header-1 h1{
+.header-1 h1 {
     font-size: 50px;
     font-weight: 100;
     color: rgb(62, 60, 60);
     margin-bottom: 20px;
 }
 
-.header-1 p{
+.header-1 p {
     font-size: 20px;
     font-weight: 100;
     color: rgb(62, 60, 60);
@@ -59,23 +59,23 @@
     padding-top: 8%;
 }
 
-.main-1 h1{
+.main-1 h1 {
     color: rgb(60, 59, 59);
     font-weight: 100;
     margin-bottom: 22px;
 }
 
-.main-1 span{
+.main-1 span {
     font-size: 30px;
     font-weight: bold;
 }
 
-.main-1 p{
+.main-1 p {
     font-size: 18px;
     color: rgb(45, 44, 44);
 }
 
-.main-div-2{
+.main-div-2 {
     padding-left: 6%;
     padding-right: 6%;
     width: 100%;
@@ -84,25 +84,25 @@
     gap: 40px;
 }
 
-.main-div-3{
+.main-div-3 {
     width: 30%;
     margin-top: 80px;
 }
 
-.main-div-3 h4{
+.main-div-3 h4 {
     font-size: 18px;
     font-weight: 600;
     padding-top: 20px;
     margin-bottom: 20px;
 }
 
-.main-div-3 p{
+.main-div-3 p {
     color: rgb(62, 60, 60);
     font-weight: 400;
     font-size: 18px;
 }
 
-.header-bg2{
+.header-bg2 {
     background-color: rgb(248, 94, 38);
     height: 220px;
     width: 100%;
@@ -124,14 +124,14 @@
     margin-top: 10%;
 }
 
-.main-02 h2{
+.main-02 h2 {
     font-size: 40px;
     font-weight: 100;
     color: rgb(60, 59, 59);
     margin-bottom: 20px;
 }
 
-.main-02 p{
+.main-02 p {
     font-size: 18px;
     color: rgb(45, 44, 44);
 }
@@ -144,12 +144,12 @@
     margin-top: 60px;
 }
 
-.jadval1 h1{
+.jadval1 h1 {
     font-weight: 100;
     margin-bottom: 15px;
 }
 
-.jadval1 p{
+.jadval1 p {
     color: rgb(62, 60, 60);
     font-weight: 200;
     font-size: 17px;
@@ -163,13 +163,166 @@
     margin-top: 60px;
 }
 
-.jadval2 h1{
+.jadval2 h1 {
     font-weight: 100;
     margin-bottom: 15px;
 }
 
-.jadval2 p{
+.jadval2 p {
     color: rgb(62, 60, 60);
     font-weight: 200;
     font-size: 17px;
+}
+
+.main-div-03 {
+    text-align: center;
+    padding-top: 10%;
+}
+
+.main-div-03 h1 {
+    font-size: 40px;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+
+.main-div-03 p {
+    font-weight: 200;
+    font-size: 17px;
+}
+
+.main-div-icc {
+    padding-top: 5%;
+    padding-left: 25%;
+}
+
+.main-div-icc i {
+    color: rgb(211, 44, 44);
+}
+
+.main-div-icc h2 {
+    font-size: 28px;
+    font-weight: 100;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.main-div-icc p {
+    font-weight: 200;
+    font-size: 17px;
+}
+
+.main-images img {
+    width: 300px;
+    margin-left: 62%;
+    margin-top: -18%;
+}
+
+.main-div-001 img {
+    width: 300px;
+    margin-left: 22%;
+    margin-top: 8px;
+}
+
+.main-div-002 {
+    margin-left: 55%;
+    margin-top: -30%;
+}
+
+.main-div-002 i {
+    color: rgb(211, 44, 44);
+}
+
+.main-div-002 h1 {
+    font-size: 28px;
+    font-weight: 100;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.main-div-003 {
+    margin-top: 15%;
+    margin-left: 20%;
+}
+
+.main-div-003 h1 {
+    font-weight: 200;
+    margin-bottom: 20px;
+}
+
+.main-div-button {
+    margin-top: -11%;
+    margin-left: 55%;
+}
+
+.main-div-button-1 {
+    margin-bottom: 20px;
+}
+
+.main-div-04 {
+    text-align: center;
+    margin-top: 15%;
+}
+
+.main-div-04 h1 {
+    font-size: 42px;
+    font-weight: 100;
+    margin-bottom: 22px;
+}
+
+.main-div-04 p {
+    font-size: 18px;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+
+.card {
+    width: 360px;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+    width: 100%;
+    height: 220px;
+}
+
+.content {
+    padding: 25px;
+}
+
+.tag {
+    color: #ff7675;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 22px;
+    color: #333;
+    margin: 10px 0;
+    font-weight: 400;
+}
+
+.meta {
+    color: #b2bec3;
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+
+.text {
+    color: #636e72;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.author {
+    color: #b2bec3;
+    font-size: 13px;
+}
+
+.umumiy-card {
+    display: flex;
+    gap: 50px;
+    margin-left: 11%;
 }
